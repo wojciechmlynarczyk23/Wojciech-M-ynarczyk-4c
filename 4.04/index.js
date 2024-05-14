@@ -1,3 +1,4 @@
+<!-- przepisane od antoniego iwinskiego -->
 red = () => {
     var size = document.getElementById('value').value;
     var style = document.getElementById('select').value;
